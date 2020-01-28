@@ -1,0 +1,20 @@
+key 158     BACK        VIRTUAL
+key 172     HOME        VIRTUAL
+key 139     MENU        VIRTUAL
+key 0x244   APP_SWITCH  VIRTUAL
+
+key 18     E        WAKE
+key 105     LEFT        WAKE
+key 106     RIGHT        WAKE
+key 108     DOWN        WAKE
+key 22     U        WAKE
+key 24     O        WAKE
+key 17     W        WAKE
+key 50     M        WAKE
+
+key 46     C        WAKE
+key 47     V        WAKE
+key 31     S        WAKE
+key 44     Z        WAKE
+key 116     POWER        WAKE
+
